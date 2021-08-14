@@ -1,5 +1,5 @@
 # Versionchecker
-check for version
+- 💻 Simple version checkerthat prints on your console. you can add this to scripts you make.)
 
 ## Coding tules/ langs used.
 
